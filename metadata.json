@@ -1,0 +1,6 @@
+{
+  "name": "KOSTOS Demo",
+  "description": "Kelola Kost, Penghuni, Tagihan, dan Keuangan dalam Satu Sistem. Versi Demo by TOKOFILE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
